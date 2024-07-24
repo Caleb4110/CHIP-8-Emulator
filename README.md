@@ -1,1 +1,2 @@
-A work-in-progress emulator for the CHIP-8 game system (technically an interpreted programming language). It reads in a .ch8 game file and then runs it.
+An emulator for the CHIP8 system. Supply as argument a chip8 binary file and it will execute it.
+Currently, does not have sound support or ability for super chip games.

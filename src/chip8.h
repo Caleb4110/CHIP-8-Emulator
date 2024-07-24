@@ -7,9 +7,6 @@
 #include <random>
 #include <SDL.h>
 
-#define TEXTURE_PIXEL(x, y) (128 * (y) + (x))
-
-#define LOOP_DELAY 16.666
 #define LOOP_FREQ 60
 
 #define RAM_SIZE 0x1000
